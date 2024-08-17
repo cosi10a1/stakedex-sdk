@@ -38,7 +38,7 @@ unstake_interface = { git = "https://github.com/igneous-labs/sanctum-unstake-pro
 unstake-lib = { git = "https://github.com/igneous-labs/sanctum-unstake-program.git", rev = "069f941" }
 
 # sanctum solana utils
-sanctum-solana-cli-utils = { git = "https://github.com/igneous-labs/sanctum-solana-utils.git", branch = "master" } # rev = "111f01"
+sanctum-solana-cli-utils = { git = "https://github.com/cosi10a1/sanctum-solana-utils.git", branch = "master" } # rev = "111f01"
 
 # sanctum-lst-list
 # keep branch = "master" for flexibility of downstream crates
