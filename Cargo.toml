@@ -20,7 +20,7 @@ jupiter-amm-interface = "~0.3.2"
 lazy_static = "^1.0"
 # set git dependencies to branch instead of locking to rev so that consumers can upgrade easily
 lido = { git = "https://github.com/jup-ag/solido", branch = "jupiter", features = ["no-entrypoint"] } # rev = "ec25a9b"
-marinade_finance_interface = { git = "https://github.com/igneous-labs/marinade_finance_interface", branch = "master" } # rev = "4d1895b"
+marinade_finance_interface = { git = "https://github.com/cosi10a1/marinade_finance_interface.git", branch = "master" } # rev = "4d1895b"
 num-derive = ">=0.1"
 num-traits = ">=0.1"
 rand = "0.8.5"
